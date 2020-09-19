@@ -15,4 +15,4 @@ while n >= 1:
     n = int(n)
     i=i+1
 M.reverse()
-print("Therefore,", m ,"= 0b",1*M)
+print("Therefore,", m ,"= 0b",*M)
